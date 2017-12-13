@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidPuzzle</string>
+    <string name="title_activity_arc_view_test">ArcViewTestActivity</string>
 </resources>
