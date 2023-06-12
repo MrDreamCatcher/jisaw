@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T06:11:48.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6OlrDayhZw2nt_PG9tF1" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T06:43:52.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VomjkCqtPGQC00zdoPBU" version="21.3.8" type="github">
   <diagram name="第 1 页" id="645tomqJiJ-OMH7EZHDi">
     <mxGraphModel dx="2214" dy="5814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -646,7 +646,7 @@
         <mxCell id="bN3cncXfaGCeX888o4DI-125" value="构建完成" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="QhY5AwB-hGsn25QpP-5c-7" vertex="1">
           <mxGeometry x="91.5" y="704" width="131.5" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="bN3cncXfaGCeX888o4DI-131" value="生成组件报告" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="QhY5AwB-hGsn25QpP-5c-7" vertex="1">
+        <mxCell id="bN3cncXfaGCeX888o4DI-131" value="分析报告" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="QhY5AwB-hGsn25QpP-5c-7" vertex="1">
           <mxGeometry x="97.5" y="890" width="131.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="QhY5AwB-hGsn25QpP-5c-6" value="Jenkins" style="swimlane;startSize=28;rounded=0;dashed=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="QhY5AwB-hGsn25QpP-5c-5" vertex="1">
