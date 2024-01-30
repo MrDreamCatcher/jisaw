@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T02:50:35.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pSR3rYMZE4URfxYq27-I" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T02:56:06.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jOA2VdrNyA7gDiDs8eW2" version="23.0.2" type="github">
   <diagram name="第 1 页" id="Z9R9oAjIF5_AClmNVOrM">
     <mxGraphModel dx="1818" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
         <mxCell id="Ql8w_hba-kZtEm8n0P-S-6" value="&lt;h2 style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;管理后台&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="376" y="344" width="588" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="Ql8w_hba-kZtEm8n0P-S-7" value="用例库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ql8w_hba-kZtEm8n0P-S-7" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="404" y="406" width="105" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Ql8w_hba-kZtEm8n0P-S-8" value="脚本库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ql8w_hba-kZtEm8n0P-S-8" value="脚本库管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="547" y="406" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Ql8w_hba-kZtEm8n0P-S-9" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="690" y="406" width="105" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Ql8w_hba-kZtEm8n0P-S-10" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ql8w_hba-kZtEm8n0P-S-10" value="报告管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="828" y="406" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Ql8w_hba-kZtEm8n0P-S-12" value="用例录制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
