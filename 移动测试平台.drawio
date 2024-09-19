@@ -799,13 +799,33 @@
         <mxCell id="MeDo6C5sbyPafvUYyXcZ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-122" target="MeDo6C5sbyPafvUYyXcZ-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MeDo6C5sbyPafvUYyXcZ-131" value="记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="MeDo6C5sbyPafvUYyXcZ-129">
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-131" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="MeDo6C5sbyPafvUYyXcZ-129">
           <mxGeometry x="-0.1839" y="-1" relative="1" as="geometry">
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MeDo6C5sbyPafvUYyXcZ-130" value="离线包清单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1676.5" y="3331" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-133" value="访问页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="854" y="3468" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-134" value="访问页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3583" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-135" value="离线包配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1671.5" y="3499" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=0.913;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-130" target="MeDo6C5sbyPafvUYyXcZ-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1312" y="3563" as="sourcePoint" />
+            <mxPoint x="1362" y="3513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-138" value="同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="MeDo6C5sbyPafvUYyXcZ-136">
+          <mxGeometry x="-0.1583" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
