@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="Z9R9oAjIF5_AClmNVOrM">
-    <mxGraphModel dx="2074" dy="5706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="5695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,6 +745,67 @@
         </mxCell>
         <mxCell id="MeDo6C5sbyPafvUYyXcZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-62" target="MeDo6C5sbyPafvUYyXcZ-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-107" value="乐效" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;horizontal=1;verticalAlign=top;spacingTop=5;fontSize=16;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="792" y="3054" width="810" height="381" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-113" value="lotus容器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;horizontal=1;verticalAlign=bottom;spacingTop=5;fontSize=16;arcSize=4;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="794" y="3451" width="813" height="533" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-114" value="离线包配置平台" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;horizontal=1;verticalAlign=top;spacingTop=5;fontSize=16;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="3055" width="228" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-115" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;horizontal=1;verticalAlign=bottom;spacingTop=5;fontSize=16;arcSize=6;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="3451" width="233" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-116" target="MeDo6C5sbyPafvUYyXcZ-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-116" value="开始构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3073" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-117" target="MeDo6C5sbyPafvUYyXcZ-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-117" target="MeDo6C5sbyPafvUYyXcZ-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-117" value="Weex打包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3197" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-118" value="在线页" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="875.5" y="3331" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-122" target="MeDo6C5sbyPafvUYyXcZ-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-126" value="上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="MeDo6C5sbyPafvUYyXcZ-125">
+          <mxGeometry x="-0.2692" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-122" value="离线包插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="3197" width="131" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-124" value="离线包" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="3331" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-128" target="MeDo6C5sbyPafvUYyXcZ-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-128" value="离线包信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1682.5" y="3200.25" width="108" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MeDo6C5sbyPafvUYyXcZ-122" target="MeDo6C5sbyPafvUYyXcZ-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-131" value="记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="MeDo6C5sbyPafvUYyXcZ-129">
+          <mxGeometry x="-0.1839" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MeDo6C5sbyPafvUYyXcZ-130" value="离线包清单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1676.5" y="3331" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
