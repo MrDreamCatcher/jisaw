@@ -1726,8 +1726,8 @@
         <mxCell id="eSuaVntTxmz2p0BfLJy6-32" value="1: 是否包含xpath" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="674.5" y="3715" width="124" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="eSuaVntTxmz2p0BfLJy6-33" value="2: 是否已圈选标记" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="673.25" y="3753.5" width="130.5" height="22" as="geometry" />
+        <mxCell id="eSuaVntTxmz2p0BfLJy6-33" value="2: 是否已圈选标记 event_name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3753.5" width="168.75" height="22" as="geometry" />
         </mxCell>
         <mxCell id="eSuaVntTxmz2p0BfLJy6-34" value="节点visible rect计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="3939" width="153.61" height="24.13" as="geometry" />
@@ -1801,9 +1801,9 @@
             <mxPoint x="659.87" y="3986.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSuaVntTxmz2p0BfLJy6-86" value="圈选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="eSuaVntTxmz2p0BfLJy6-85">
+        <mxCell id="eSuaVntTxmz2p0BfLJy6-86" value="圈选 event_name" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="eSuaVntTxmz2p0BfLJy6-85">
           <mxGeometry x="-0.2595" y="-2" relative="1" as="geometry">
-            <mxPoint x="28" y="-1" as="offset" />
+            <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eSuaVntTxmz2p0BfLJy6-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSuaVntTxmz2p0BfLJy6-87" target="eSuaVntTxmz2p0BfLJy6-91">
