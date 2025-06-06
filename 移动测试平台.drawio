@@ -2180,6 +2180,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qC5Z_KLel6KriaNzQXVq-77" value="产品" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="4069" width="49" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="qC5Z_KLel6KriaNzQXVq-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="4115" as="sourcePoint" />
+            <mxPoint x="606" y="4115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qC5Z_KLel6KriaNzQXVq-79" value="人工录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qC5Z_KLel6KriaNzQXVq-78">
+          <mxGeometry x="-0.1231" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
