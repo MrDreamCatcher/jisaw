@@ -10,9 +10,6 @@
         <mxCell id="V9jIYEt7vFSsSm_pAXpX-26" value="JSFM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1596" y="4331" width="365" height="627" as="geometry" />
         </mxCell>
-        <mxCell id="qC5Z_KLel6KriaNzQXVq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qC5Z_KLel6KriaNzQXVq-53" target="qC5Z_KLel6KriaNzQXVq-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qC5Z_KLel6KriaNzQXVq-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;horizontal=1;verticalAlign=top;spacingTop=10;fontSize=16;arcSize=4;align=center;spacingLeft=25;" parent="1" vertex="1">
           <mxGeometry x="732" y="5289" width="241" height="249" as="geometry" />
         </mxCell>
@@ -2123,9 +2120,6 @@
             <mxPoint x="485" y="4985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC5Z_KLel6KriaNzQXVq-64" value="整体计算曝光/点击" style="whiteSpace=wrap;html=1;verticalAlign=middle;spacingTop=4;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1053.8500000000001" y="5376.75" width="126.56" height="73.5" as="geometry" />
-        </mxCell>
         <mxCell id="qC5Z_KLel6KriaNzQXVq-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="535" y="5048.25" width="20" height="80.5" as="geometry" />
         </mxCell>
@@ -3119,6 +3113,9 @@
         </mxCell>
         <mxCell id="V9jIYEt7vFSsSm_pAXpX-275" value="构建VTree" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1940.69" y="6265.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V9jIYEt7vFSsSm_pAXpX-280" value="整体计算点击曝光" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="777" y="5547" width="122" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
