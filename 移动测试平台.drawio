@@ -3360,6 +3360,9 @@
         <mxCell id="xYPpot32UD3a1ZPASeMg-75" value="遮挡" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-2438" y="7142" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xYPpot32UD3a1ZPASeMg-78" value="优化后单次构建VTree平均时间从大概10ms降到6ms左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2228.94" y="5875" width="418" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
