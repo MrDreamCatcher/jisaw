@@ -3928,10 +3928,10 @@
           <mxGeometry x="-1936" y="-1480" width="122" height="122" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-27" value="优化前：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-3274" y="-2380" width="138" height="30" as="geometry" />
+          <mxGeometry x="-3252" y="-2380" width="138" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-33" value="优化后：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-3261" y="-1602" width="138" height="30" as="geometry" />
+          <mxGeometry x="-3244" y="-1605" width="138" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1558" y="-2063" width="32" height="23.5" as="geometry" />
