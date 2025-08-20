@@ -3882,13 +3882,13 @@
         <mxCell id="0hbrfYhrq2LmirHHFb6j-12" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2094" y="-2299" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-13" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-13" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1965" y="-2297" width="122" height="122" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3272" y="-1996" as="sourcePoint" />
-            <mxPoint x="-1427" y="-2015" as="targetPoint" />
+            <mxPoint x="-1587" y="-2015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-15" value="有内容" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -3906,7 +3906,7 @@
         <mxCell id="0hbrfYhrq2LmirHHFb6j-19" value="父节点有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2861" y="-1539.5" width="157" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-20" value="父节点无点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-20" value="父节点无点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2691" y="-1555" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-21" value="子元素有内容" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
@@ -3915,16 +3915,16 @@
         <mxCell id="0hbrfYhrq2LmirHHFb6j-22" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="-1794" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-23" value="无点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-23" value="无点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1963" y="-1794" width="117" height="117" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-24" value="子元素无内容" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2094" y="-1572" width="288" height="288" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-25" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-25" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2065" y="-1482" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-26" value="有点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-26" value="无点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1936" y="-1480" width="122" height="122" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-27" value="优化前：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
@@ -3932,6 +3932,18 @@
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-33" value="优化后：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="-3261" y="-1602" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1558" y="-2063" width="32" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-41" value="上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1506.5" y="-2068" width="58" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1558" y="-2019.25" width="32" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-44" value="不上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1510" y="-2025.5" width="78" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
