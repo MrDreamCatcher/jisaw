@@ -3936,14 +3936,14 @@
         <mxCell id="0hbrfYhrq2LmirHHFb6j-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1558" y="-2063" width="32" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-41" value="上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1506.5" y="-2068" width="58" height="36" as="geometry" />
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-41" value="上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-1507.5" y="-2068" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="0hbrfYhrq2LmirHHFb6j-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1558" y="-2019.25" width="32" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="0hbrfYhrq2LmirHHFb6j-44" value="不上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="-2025.5" width="78" height="36" as="geometry" />
+        <mxCell id="0hbrfYhrq2LmirHHFb6j-44" value="不上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-1511" y="-2025.5" width="81" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
