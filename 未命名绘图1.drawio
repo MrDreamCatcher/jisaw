@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="第 1 页" id="JJ7__w1jXN3mFOs7XtAW">
+    <mxGraphModel dx="1301" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-1" target="rhwkMBXR6d_0oHsPQKTQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-1" value="应用启动AppRegistry.registerComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="445" y="310" width="213.5" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-2" target="rhwkMBXR6d_0oHsPQKTQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-2" value="&lt;div&gt;包装组件&lt;/div&gt;AppRegistry.renderApplication()&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="451.75" y="491" width="200" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-3" target="rhwkMBXR6d_0oHsPQKTQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-3" value="&lt;div&gt;开始渲染&lt;/div&gt;Renderer.renderElement&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="451.75" y="666" width="198.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-6" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: wrap;&quot;&gt;index.js&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="679" y="338" width="62" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-7" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: wrap;&quot;&gt;Libraries/ReactNative/AppRegistry.js&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673" y="527" width="229" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-8" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: wrap;&quot;&gt;Libraries/ReactNative/renderApplication.js&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="679" y="704" width="260" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-9" target="rhwkMBXR6d_0oHsPQKTQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-9" target="rhwkMBXR6d_0oHsPQKTQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-9" value="架构选择&lt;div&gt;useFabric&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470.75" y="827" width="162" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-12" value="&lt;div&gt;新架构渲染&lt;/div&gt;ReactFabric.render()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="453.25" y="1010" width="198.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-14" value="&lt;div&gt;旧架构渲染&lt;/div&gt;ReactNative.render()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="813" y="835.5" width="198.5" height="98" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
