@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="第 1 页" id="JJ7__w1jXN3mFOs7XtAW">
-    <mxGraphModel dx="1301" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19200" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,29 +34,57 @@
         <mxCell id="rhwkMBXR6d_0oHsPQKTQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-9" target="rhwkMBXR6d_0oHsPQKTQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rhwkMBXR6d_0oHsPQKTQ-13">
+          <mxGeometry x="-0.2151" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rhwkMBXR6d_0oHsPQKTQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-9" target="rhwkMBXR6d_0oHsPQKTQ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-1" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rhwkMBXR6d_0oHsPQKTQ-15">
+          <mxGeometry x="-0.0763" y="2" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rhwkMBXR6d_0oHsPQKTQ-9" value="架构选择&lt;div&gt;useFabric&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470.75" y="827" width="162" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-12" value="&lt;div&gt;新架构渲染&lt;/div&gt;ReactFabric.render()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="453.25" y="1010" width="198.5" height="98" as="geometry" />
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-12" target="kWoN267KP4fi7nKnUsTl-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWoN267KP4fi7nKnUsTl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-14" target="kWoN267KP4fi7nKnUsTl-1">
+        <mxCell id="rhwkMBXR6d_0oHsPQKTQ-12" value="&lt;div&gt;新架构渲染&lt;/div&gt;ReactFabric.render()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="453.25" y="1037" width="198.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="kWoN267KP4fi7nKnUsTl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rhwkMBXR6d_0oHsPQKTQ-14" target="kWoN267KP4fi7nKnUsTl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rhwkMBXR6d_0oHsPQKTQ-14" value="&lt;div&gt;旧架构渲染&lt;/div&gt;ReactNative.render()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="813" y="835.5" width="198.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="kWoN267KP4fi7nKnUsTl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWoN267KP4fi7nKnUsTl-1" target="kWoN267KP4fi7nKnUsTl-3">
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWoN267KP4fi7nKnUsTl-1" target="kWoN267KP4fi7nKnUsTl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWoN267KP4fi7nKnUsTl-1" value="&lt;div&gt;核心渲染器&lt;/div&gt;render(element, containerTag, callback)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="kWoN267KP4fi7nKnUsTl-1" value="&lt;div&gt;核心渲染器&lt;/div&gt;render(element, containerTag, callback)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="813" y="1037" width="198.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="kWoN267KP4fi7nKnUsTl-3" value="&lt;div&gt;Fiber Tree 构建和协调&amp;nbsp;&lt;/div&gt;workLoopConcurrent()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="813" y="1203" width="198.5" height="98" as="geometry" />
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWoN267KP4fi7nKnUsTl-3" target="Qeq2z7xiL5s4Dijbai72-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWoN267KP4fi7nKnUsTl-3" value="&lt;div&gt;Fiber Tree 构建和协调&amp;nbsp;&lt;/div&gt;workLoopConcurrent()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="626" y="1236" width="198.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-6" value="&lt;div&gt;创建Fiber Node实例&lt;/div&gt;createInstance()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="626" y="1389" width="198.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="873" y="1442" as="sourcePoint" />
+            <mxPoint x="832" y="1442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qeq2z7xiL5s4Dijbai72-10" value="XPath注入点" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="875" y="1426" width="91" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
