@@ -106,8 +106,11 @@
         <mxCell id="OA535JCtsh21sbJeiT8x-5" value="记录页面元素曝光XPath" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1281" y="743" width="179" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="OA535JCtsh21sbJeiT8x-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1718" y="1060" width="121" height="123" as="geometry" />
+        <mxCell id="OA535JCtsh21sbJeiT8x-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-7" target="OA535JCtsh21sbJeiT8x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-7" value="本地数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1644" y="1082" width="121" height="123" as="geometry" />
         </mxCell>
         <mxCell id="OA535JCtsh21sbJeiT8x-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-10" target="OA535JCtsh21sbJeiT8x-5">
           <mxGeometry relative="1" as="geometry">
@@ -133,8 +136,57 @@
         <mxCell id="OA535JCtsh21sbJeiT8x-10" value="是否达到时间阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1278" y="923" width="185" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="OA535JCtsh21sbJeiT8x-13" value="拉取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="OA535JCtsh21sbJeiT8x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-13" target="OA535JCtsh21sbJeiT8x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-13" value="拉取url下XPath和曝光数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1281" y="1099" width="179" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-13" target="OA535JCtsh21sbJeiT8x-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-17" target="OA535JCtsh21sbJeiT8x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-17" value="对比相似度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="1292" width="179" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-21" target="OA535JCtsh21sbJeiT8x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;否&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OA535JCtsh21sbJeiT8x-24">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-21" target="OA535JCtsh21sbJeiT8x-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="OA535JCtsh21sbJeiT8x-31">
+          <mxGeometry x="-0.1162" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-21" value="相似度是否达到阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="1465" width="185" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-23" target="OA535JCtsh21sbJeiT8x-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-23" value="判定渲染异常" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="1642" width="179" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OA535JCtsh21sbJeiT8x-26" target="OA535JCtsh21sbJeiT8x-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-26" value="请求截图并上报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="1816" width="179" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-29" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1302.75" y="1973" width="135.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="OA535JCtsh21sbJeiT8x-30" value="页面正常" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1636.75" y="1466" width="135.5" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
